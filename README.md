@@ -11,7 +11,7 @@ Features
   - Defense: Reduces incoming damage.
   - Speed: Grants the first-strike advantage and affects the dodge chance.
   - Luck: Influences both the dodge chance and critical hit chance.
-- Real-Time Turn-Based Combat:** Watch the battle unfold step-by-step in your terminal with built-in time delays so you can follow the action seamlessly.
+- Real-Time Turn-Based Combat: Watch the battle unfold step-by-step in your terminal with built-in time delays so you can follow the action seamlessly.
 - JSON Persistence: Fighter profiles are saved locally using Jackson's `ObjectMapper`, meaning your characters and progress persist even after restarting the application.
 
 Tech Stack
