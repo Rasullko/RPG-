@@ -1,0 +1,29 @@
+{
+  "naruto" : {
+    "name" : "naruto",
+    "defense" : 12,
+    "attack" : 20,
+    "health" : 135,
+    "speed" : 7,
+    "luck" : 5,
+    "alive" : true
+  },
+  "sasuke" : {
+    "name" : "sasuke",
+    "defense" : 12,
+    "attack" : 23,
+    "health" : 110,
+    "speed" : 6,
+    "luck" : 6,
+    "alive" : true
+  },
+  "rassul" : {
+    "name" : "rassul",
+    "defense" : 20,
+    "attack" : 30,
+    "health" : 200,
+    "speed" : 10,
+    "luck" : 10,
+    "alive" : true
+  }
+}
